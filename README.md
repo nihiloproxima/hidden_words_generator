@@ -1,6 +1,6 @@
 # wordgen
 
-Permet de générer des grilles de mots cachés en choisissant les mots à incorporer ou en laissant le hasard faire les choses.
+Generate Hidden words grid with your own words
 
 Live exemple :
 https://hidden-words-11f46.web.app
